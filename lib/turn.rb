@@ -46,6 +46,6 @@ def turn(board)
   else
     puts "false"
   end
-  
+  display_board(board)
 end
 
